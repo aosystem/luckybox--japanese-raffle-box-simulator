@@ -6,6 +6,9 @@ An authentic digital simulation of the classic **Japanese triangular paper lot r
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id1561968472)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/_s9dohepNAc/0.jpg)](https://www.youtube.com/watch?v=_s9dohepNAc)
+
 ## 🌟 Key Features
 - **Authentic Depletion Logic:** Just like a real raffle, drawn lots are removed from the box, changing the probability for each subsequent draw.
 - **Simple Prize Registration:** Easily set up prizes using a `Quantity:Name` format (e.g., `1:Car`, `3:Bicycle`).
